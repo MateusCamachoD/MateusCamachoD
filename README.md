@@ -21,4 +21,4 @@ Meu nome é Mateus Dias Camacho, sou estudante de Engenharia de Software pela Un
 
 ## ⭐ GitHub Stats
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusCamachoD&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusCamachoD&show_icons=true)
