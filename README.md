@@ -3,7 +3,7 @@
 
 Sou Engenheiro de Software com experiência em FrontEnd e familiaridade com outras linguagens orientadas a objetos. Atuei com frameworks como Node, React, React Native, Bootstrap, Vue e bancos de dados relacionais como PostgreSQL e MongoDb. São 5 anos já certificados de inglês pelo CNA, com nível final B1 no exame de Cambridge. Continuo evoluindo meu inglês dia a dia para melhorar no âmbito profissional.
 
-Tenho 22 anos e sou original de São Paulo - SP, me mudei aos 11 anos para São José do Rio Preto - SP e atualmente moro em Dois Vizinhos - PR, é eu sei, muitas mudanças e distância mas está valendo a experiência kk
+Tenho 22 anos e sou original de São Paulo - SP, me mudei aos 11 anos para São José do Rio Preto - SP e atualmente moro em Dois Vizinhos - PR, foram diversas mudanças e distância mas está valendo a cada gota da experiência.
 
 Durante minha graduação (atualmente 6° período) em Engenharia de Software, estou tendo a oportunidade de me aprofundar em tópicos avançados de programação e engenharia de software. Além disso, participo de várias conferências e workshops na área de tecnologia, incluindo convenções da faculdade, onde apresentei opiniões e ajudei com trabalhos de pesquisa.
 
