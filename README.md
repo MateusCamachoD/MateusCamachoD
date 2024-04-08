@@ -4,7 +4,7 @@
 
 <div style="margin-bottom:100px"></div>
 
-# 📝About Me
+# 🖥️About Me
 
 <h3 align="center">I have been a web developer for 2 years, specializing in the Javascript ecosystem.</h3>
 <br/><br/>
