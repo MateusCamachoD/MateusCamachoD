@@ -16,7 +16,7 @@
 ### <div align="center"> Frontend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,mui,graphql,reactnative&theme=light&perline=3" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,reactnative&theme=light&perline=3" />
 </p>
 
 </td><td valign="top" width="33%">
@@ -24,7 +24,7 @@
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,rabbitmq,postgres&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="33%">
@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/mysite-b200ed.svg?&style=for-the-badge&logo=gnometerminal&logoColor=white" alt=mysite style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.instagram.com/mateusdcamacho/" target="_blank">
-<img src="https://img.shields.io/badge/twitch-6441a5.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=twitch style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/instagram-6441a5.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=intagram style="margin-bottom: 5px;" />
 </a>   
 </div>  
 <br/><br/>
