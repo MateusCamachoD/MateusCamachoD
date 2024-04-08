@@ -1,6 +1,6 @@
 <div style="margin-top:50px"></div>
 
-![Banner](<img src="./Mateus D..png">)
+![Banner](https://github.com/MateusCamachoD/MateusCamachoD/blob/main/Mateus%20D..png)
 
 <div style="margin-bottom:100px"></div>
 
