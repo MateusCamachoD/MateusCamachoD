@@ -1,97 +1,64 @@
-<h1 align="center">Mateus Dias Camacho</h1>
-<h3 align="center">Engenheiro de Software • Founder & CEO @ Desperte • Especialista em Produto, Growth e Sistemas Inteligentes</h3>
+<div style="margin-top:50px"></div>
+
+![Banner](https://github.com/MateusCamachoD/MateusCamachoD/blob/main/Web%20DEVELOPER.png)
+
+<div style="margin-bottom:100px"></div>
+
+# 🖥️About Me
+
+<h3 align="center">I have been a web developer for 2 years, specializing in the Javascript ecosystem.</h3>
+<br/><br/>
+
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
+
+<table align="center"><tr><td valign="top" width="33%">
+
+### <div align="center"> Frontend </div>
 
 <p align="center">
-  Construo produtos digitais, estratégias de crescimento e sistemas inteligentes que geram resultado real para negócios.
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,reactnative&theme=light&perline=3" />
 </p>
 
----
+</td><td valign="top" width="33%">
 
-## 🚀 Sobre Mim
-
-Sou Engenheiro de Software, estrategista digital e fundador da **Desperte**, empresa especializada em:
-
-- Estratégia de Crescimento (Growth & Performance)
-- UX/UI e Experiência do Usuário
-- Desenvolvimento de Sistemas e Automações com IA
-- Produtos Digitais Escaláveis
-- Branding, Posicionamento e Performance Comercial
-
-Atuo desde a concepção estratégica até a execução técnica, unindo **negócio, produto, design e engenharia** em soluções que crescem de forma previsível e orientada por dados.
-
-Tenho experiência liderando projetos de:
-- Plataformas SaaS
-- Sistemas corporativos
-- CRMs inteligentes
-- Automações com IA (WhatsApp, atendimento, vendas, processos)
-- Landing Pages de alta conversão
-- Estruturas completas de marketing e tecnologia
-
----
-
-## 🧠 Atuação Profissional
-
-- 👨‍💼 Founder & CEO — **Desperte**
-- 💻 Engenheiro de Software (Full Stack)
-- 🎯 Especialista em Growth, Produto e UX
-- 🤖 Desenvolvedor de Automações com Inteligência Artificial
-- 📊 Estrategista de Dados, Funis e Conversão
-
----
-
-## 🛠️ Stack Tecnológica
-
-### Frontend
-- React, Next.js
-- HTML5, CSS3, JavaScript, TypeScript
-- TailwindCSS, Bootstrap
-- Figma (UI/UX, Design Systems, Prototipação)
-
-### Backend
-- Node.js
-- APIs REST
-- Firebase
-- Integrações com WhatsApp, CRM, Gateways de Pagamento
-
-### Mobile & Produto
-- Progressive Web Apps (PWA)
-- Arquitetura de Software
-- Clean Code & Design Patterns
-
-### Automação & IA
-- Chatbots com IA
-- Integração com LLMs
-- Automação de Processos de Vendas, Suporte e Operações
-- Orquestração de fluxos com Webhooks e APIs
-
-### Ferramentas
-- Git & GitHub
-- Docker
-- Figma
-- Google Cloud / Firebase
-- Notion, ClickUp, Jira
-- Analytics, Tag Manager, Hotjar
-
----
-
-## 📈 Foco Atual
-
-- Construção de produtos SaaS com IA
-- Sistemas de atendimento e vendas inteligentes
-- Escala de negócios via tecnologia
-- UX orientado à conversão
-- Arquitetura de plataformas de alta performance
-
----
-
-## 🌐 Contato
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/mateuscamacho
-- 🌎 Empresa: https://desperte.com.br (ou domínio que você usar)
-- 📸 Instagram: @desperte.ai (ou o seu real)
-
----
+### <div align="center"> Backend </div>
 
 <p align="center">
-  "Tecnologia é só o meio. Crescimento previsível é o objetivo."
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,sql,php&theme=dark&perline=3" />
 </p>
+
+</td><td valign="top" width="33%">
+
+### <div align="center"> Tools </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vercel,github,git,vscode,figma&theme=dark&perline=3" />
+</p>
+
+</td></tr></table>
+<br/><br/>
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateusCamachoD&theme=radical" />
+</p>
+<br/><br/>
+
+# 📫 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/mateuscamacho/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/mysite-b200ed.svg?&style=for-the-badge&logo=gnometerminal&logoColor=white" alt=mysite style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.instagram.com/mateusdcamacho/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-6441a5.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=intagram style="margin-bottom: 5px;" />
+</a>   
+</div>  
+<br/><br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MateusCamachoD&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MateusCamachoD&theme=radical)
