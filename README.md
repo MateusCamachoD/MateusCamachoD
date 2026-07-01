@@ -1,8 +1,6 @@
 <div align="center">
-
-<img width="100%" src="https://github.com/MateusCamachoD/MateusCamachoD/blob/main/Web%20DEVELOPER.png"/>
-
-# Mateus Camacho
+  
+# Mateus D. Camacho
 
 ### Software Engineer • Product Builder • Founder
 
